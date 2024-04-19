@@ -1,0 +1,33 @@
+.resume-container{
+	display:flex;
+	background-color: #2279c0;
+	max-width:1200px;
+	margin:0 auto;
+	margin-top: 5px;
+	color: #fff;
+	
+}
+.headers{
+	color:rgb(100, 0, 70, 1.0);
+}
+.info{
+	padding-left: 40px;
+	font-size: 18px;
+}
+.resume-container img{
+  width:350px; 
+ 
+}
+body{
+   min-height: 700px;
+}
+.skills ul{
+   list-style: none;
+   padding:0px;
+}
+.info a{
+	color:#fff;
+}
+.info a:hover,a:active{
+	color:rgb(100, 0, 70, 1.0);
+}
